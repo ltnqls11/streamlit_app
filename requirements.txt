@@ -1,7 +1,3 @@
-streamlit
-pandas
-numpy
-plotly>=1.30.0
-pandas>=1.5.0
-numpy>=1.23.0
-plotly>=5.18.0
+streamlit>=1.30.0
+pandas>=2.2.0
+plotly>=5.20.0
